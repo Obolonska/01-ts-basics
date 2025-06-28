@@ -21,5 +21,15 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src"]
+  "include": [
+    "src",
+    "src/task-1.ts",
+    "src/task-2.ts",
+    "src/task-3.ts",
+    "src/task-4.ts",
+    "src/task-5.ts",
+    "src/task-6.ts",
+    "src/task-7.ts",
+    "src/task-8.ts"
+  ]
 }
